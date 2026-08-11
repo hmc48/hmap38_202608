@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "geo_38_短期入所療養介護(療養病床を有する病院等）",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "内容": "医療法人　片山医院【短期入所療養介護(療養病床を有する病院等）】愛媛県今治市吉海町幸新田71", "url": "https://www.kaigokensaku.mhlw.go.jp/38/index.php?action_kouhyou_detail_004_kani=true&JigyosyoCd=3813228214-00&ServiceCd=&Type=search", "url2": null }, "geometry": { "type": "Point", "coordinates": [ 133.042081199999984, 34.1469245 ] } }
+]
+}

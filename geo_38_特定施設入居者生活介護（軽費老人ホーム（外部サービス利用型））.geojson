@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "geo_38_特定施設入居者生活介護（軽費老人ホーム（外部サービス利用型））",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "内容": "ケアハウスアテーナ【特定施設入居者生活介護（軽費老人ホーム（外部サービス利用型））】松山市保免中三丁目3-23", "url": "https://www.kaigokensaku.mhlw.go.jp/38/index.php?action_kouhyou_detail_004_kani=true&JigyosyoCd=3870106220-00&ServiceCd=&Type=search", "url2": "http://www.ate-na.jp" }, "geometry": { "type": "Point", "coordinates": [ 132.74595249999993, 33.814482 ] } }
+]
+}
